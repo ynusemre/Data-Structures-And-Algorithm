@@ -1,0 +1,9 @@
+In My  HomeWork:
+
+
+I used KWArrayList for customer automation system (for keeping data in customer's methods).
+
+I used the KWLinkedList to keep the amount of products stored in the Branches (as a two dimension arraylist) 
+and the information (name, surname, e-mail, password) of employees and administrators in the Branches.
+
+I didn't make the HybridList class.
